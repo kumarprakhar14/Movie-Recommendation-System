@@ -16,7 +16,7 @@ iii. Hybrid recomendation system
     person watches another movie named M2, then system will recommend the same movie to other person as well.
 
 3. **Hybrid recomendation system:** 
-    It includes the features of both of the above <h1>systems</h1>
+    It includes the features of both of the above systems
 
 
 ## Project Flow:
